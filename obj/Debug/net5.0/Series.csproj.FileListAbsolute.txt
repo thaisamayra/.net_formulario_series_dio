@@ -1,0 +1,16 @@
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\bin\Debug\net5.0\Series.exe
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\bin\Debug\net5.0\Series.deps.json
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\bin\Debug\net5.0\Series.dll
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\bin\Debug\net5.0\ref\Series.dll
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\bin\Debug\net5.0\Series.pdb
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.dll
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\ref\Series.dll
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.pdb
+D:\GoogleDrive\Novos Empreendimentos\Thaisa - Developer\Bootcamp Decola Tech\Projeto01_app de cadastro\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
